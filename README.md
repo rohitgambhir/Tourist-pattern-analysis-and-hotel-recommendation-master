@@ -11,4 +11,4 @@ Given the complexity of the dataset, the following business cases were implement
 
 3. Identifying & Predicting Growth Across the Marketing Channels for Expedia for their Hotel Booking Service.
 
-4. To predict the seasonal booking traffic for each country.
+4. To predict the seasonal booking traffic for each country..
